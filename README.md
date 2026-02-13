@@ -92,4 +92,5 @@ Real-time hybrid fatigue detection system combining Eye Aspect Ratio (EAR) and C
 
 ---
 
-⭐ Open to internships, research collaborations, and AI-driven product development opportunities.
+⭐  Open to internships and entry-level opportunities in AI/ML, Data Analytics, and AI-integrated application development.
+
