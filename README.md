@@ -30,10 +30,7 @@
 
 🎓 **Integrated M.Tech (CSE - Data Science) | 2022–2027**  
 
-Computer Science student specializing in **Machine Learning, Artificial Intelligence, and Data Science**.  
-Passionate about building intelligent systems and solving real-world problems using predictive modeling and AI-driven solutions.  
-
-I enjoy combining AI with Web Development to create complete end-to-end applications.
+Computer Science student specializing in Data Science with hands-on experience in Machine Learning, time-series forecasting, and cloud platforms. Proficient in building end-to-end ML pipelines, developing predictive models, and deploying scalable AI-driven applications.
 
 ---
 
